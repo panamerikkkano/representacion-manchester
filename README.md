@@ -1,5 +1,5 @@
 # representacion-manchester
 
-Generador de texto a bits
+Representacion de bits a codificacion manchester
 
 ![](https://i.imgur.com/ToXZV5e.png)
